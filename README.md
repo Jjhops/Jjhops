@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me
-- **I'm Heoposit**
+- **I'm Jjhops**
 - **I'm Junior Front-end Developer**
 - **I'm Student**
 - **I wanna improve myself**
